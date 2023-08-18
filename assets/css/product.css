@@ -68,6 +68,19 @@
   background-color: #009345;
   color: #fff;
 }
+
+.product-contact form .contact-a a {
+  background-color: #00ad45;
+}
+.product-contact form div.contact-a {
+  padding: 0;
+  border-radius: 8px;
+  border: 1px solid #009345;
+  color: #009345;
+  font: 500 16px 'Open Sans', sans-serif;
+  text-align: center;
+  transition: 0.6s;
+}
 .social-media {
   text-align: center;
 }

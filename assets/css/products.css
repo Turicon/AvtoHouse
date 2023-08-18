@@ -128,7 +128,7 @@ img:not(.fl-lightbox-preview-img) {
   width: 100%;
   aspect-ratio: 400/309;
 }
-.desc-text{
+.desc-text {
   font: 400 16px 'Open Sans', sans-serif;
   margin-bottom: 10px;
 }
@@ -321,12 +321,15 @@ aspect-ratio: 400/309; */
   }
 }
 
-@media(max-width:576px){
+@media (max-width: 576px) {
   .description .lightboxes img {
     width: 100%;
     aspect-ratio: 400/309;
   }
   .description {
     width: 100%;
+  }
+  section.contact-number {
+    padding: 5px 0;
   }
 }

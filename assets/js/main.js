@@ -22,7 +22,7 @@ $('.brands-items').slick({
     dots: true,
     infinite: true,
     speed: 800,
-    autoplay: false,
+    autoplay: true,
     autoplaySpeed: 2000,
     slidesToShow: 7,
     slidesToScroll: 4,
