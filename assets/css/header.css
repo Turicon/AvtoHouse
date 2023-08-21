@@ -251,7 +251,7 @@ footer {
 }
 .accordion-item button {
   font: 400 20px/1 'Open Sans', sans-serif;
-  background-color: #e6feea;;
+  background-color: #e6feea;
 }
 @media (min-width: 576px) {
   .container {
@@ -372,4 +372,20 @@ footer {
   .container {
     max-width: 1320px;
   }
+}
+
+/* NEW CHANGES */
+.foot-logo .foot-logo-img img{
+  width: 220px;
+}
+@media (min-width: 992px) {
+  .header .logo {
+    max-width: 190px;
+  }
+}
+@media (max-width: 576px) {
+
+  .header .logo {
+    max-width: 140px;
+}
 }
