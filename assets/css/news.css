@@ -13,7 +13,7 @@
 }
 
 .news-links ul li a {
-    font: 600 18px/1.2 'Open Sans', sans-serif;
+    font: 600 18px/1.2 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
     color: #54595f;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .latest-products h2 {
-    font: 700 30px/1 'Open Sans', sans-serif;
+    font: 700 30px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
     color: #009345;
     font-style: italic;
 }

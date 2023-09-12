@@ -25,20 +25,20 @@
 .head-title h3,
 .form-title h3 {
   color: #000;
-  font: 300 28px/1 'Open Sans', sans-serif;
+  font: 300 28px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 .head-title h2,
 .form-title h2 {
   text-transform: uppercase;
   color: #000;
-  font: 800 32px/1 'Open Sans', sans-serif;
+  font: 800 32px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 .head-title span,
 .form-title span {
   color: #7a7a7a;
-  font: 400 16px/1 'Open Sans', sans-serif;
+  font: 400 16px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 .contact-form-color {
@@ -57,7 +57,7 @@
   display: flex;
   gap: 0 10px;
   align-items: center;
-  font: 500 20px 'Open Sans', sans-serif;
+  font: 500 20px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 .contact-number svg,
@@ -108,7 +108,7 @@ form .input-div {
 form button {
   background-color: #009345;
   color: #fff;
-  font: 500 15px/1 'Open Sans', sans-serif;
+  font: 500 15px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   padding: 12px 24px;
   border: 0;
   border-radius: 2px;

@@ -32,7 +32,8 @@
 .feedback-content h2:last-child {
   font-size: 28px;
   color: #009345;
-  font-weight: 900;
+    /* NEW KERIM*/
+  font-weight: 700;
   text-transform: uppercase;
 }
 
@@ -215,7 +216,7 @@
 }
 
 .products-wrapper .car-content a {
-  font: bold 14px 'Open Sans', sans-serif;
+  font: bold 14px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   color: #54595f;
 }
 
@@ -486,7 +487,10 @@ p:nth-child(3) {
     flex-direction: row;
     align-items: end;
   }
-
+  /* NEW KERIM*/
+  .products-content{
+    align-items: center;
+  }
   .brand-content div,
   .products-content div,
   .feedback-content div {

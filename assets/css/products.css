@@ -19,7 +19,7 @@ section {
   outline: none;
   border: 1px solid #ddd;
   border-radius: 3px;
-  font: 14px 'Open Sans', sans-serif;
+  font: 14px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   color: #666666;
 }
 
@@ -37,7 +37,7 @@ section {
   background-color: #fff;
   border-radius: 5px;
   color: #009345;
-  font: bold 14px 'Open Sans', sans-serif;
+  font: bold 14px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   transition: 0.4s;
 }
 
@@ -76,7 +76,7 @@ section {
 }
 
 .car-section .car-content a {
-  font: bold 14px 'Open Sans', sans-serif;
+  font: bold 14px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   color: #54595f;
 }
 
@@ -106,7 +106,7 @@ section {
 .btns-section a {
   background-color: #009345;
   color: #fff;
-  font: 300 15px 'Open Sans', sans-serif;
+  font: 300 15px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   padding: 10px 15px;
   border-radius: 5px;
   border: 0;
@@ -129,7 +129,7 @@ img:not(.fl-lightbox-preview-img) {
   aspect-ratio: 400/309;
 }
 .desc-text {
-  font: 400 16px 'Open Sans', sans-serif;
+  font: 400 16px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   margin-bottom: 10px;
 }
 /* width: 400px;
@@ -275,7 +275,7 @@ aspect-ratio: 400/309; */
     align-items: center;
     gap: 0 15px;
     margin: 10px 0;
-    font: 400 16px 'Open Sans', sans-serif;
+    font: 400 16px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   }
 
   .hidden-section ul li a svg {
@@ -302,7 +302,7 @@ aspect-ratio: 400/309; */
     padding: 12px 24px;
     background-color: #009345;
     color: #fff;
-    font: 500 15px 'Open Sans', sans-serif;
+    font: 500 15px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
     cursor: pointer;
     border-radius: 5px;
     margin-top: 30px;

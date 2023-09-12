@@ -14,7 +14,7 @@
 }
 
 .about-elementor h2 {
-  font: 600 38px/1 'Open Sans', sans-serif;
+  font: 600 38px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   color: #fff;
   margin: 0 0 50px;
 }
@@ -35,12 +35,12 @@
 
 .about-elementor .about-elementor-counter span:first-child {
   color: #fff;
-  font: 600 40px/1 'Open Sans', sans-serif;
+  font: 600 40px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 .about-elementor .about-elementor-counter span:last-child {
   color: #fff;
-  font: 400 13px/1 'Open Sans', sans-serif;
+  font: 400 13px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 .about-header-content,
@@ -71,14 +71,14 @@
 .faq h2 {
   color: #000;
   overflow: hidden;
-  font: bold 35px/1 'Open Sans', sans-serif;
+  font: bold 35px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 .about-header-content .about-header-content-text,
 .about-guarantee .about-header-content-text,
 .faq .about-header-content-text {
   color: #333;
-  font: 400 17px/1.4 'Open Sans', sans-serif;
+  font: 400 17px/1.4 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   margin: 0 0 15px;
 }
 
@@ -110,18 +110,18 @@
 
 .about-experience .section-content .experience-data .content h2 {
   color: #000;
-  font: 600 32px 'Open Sans', sans-serif;
+  font: 600 32px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 .about-experience .section-content .experience-data .content i {
-  font: bold 50px 'Open Sans', sans-serif;
+  font: bold 50px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   font-style: italic;
   color: #009345;
   margin-right: 15px;
 }
 
 .about-experience .section-content .experience-data:not(.content) {
-  font: 400 16px 'Open Sans', sans-serif;
+  font: 400 16px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   color: #7a7a7a;
   margin: 0 0 15px;
 }
@@ -131,11 +131,11 @@
   .experience-data:not(.content)
   .blue-expression {
   color: #009345;
-  font: bolder 18px 'Open Sans', sans-serif;
+  font: bolder 18px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 .about-experience .section-content .experience-data:not(.content) button {
-  font: 500 18px/1 'Open Sans', sans-serif;
+  font: 500 18px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   color: #fff;
   padding: 20px 40px;
   background-color: #009345;
@@ -165,18 +165,18 @@
 }
 
 .about-guarantee .guarantee-card .guarantee-card-content h3 {
-  font: 600 28px/1 'Open Sans', sans-serif;
+  font: 600 28px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   margin: 0 0 10px;
 }
 
 .about-guarantee .guarantee-card .guarantee-card-content .content .title {
-  font: 600 20px/1 'Open Sans', sans-serif;
+  font: 600 20px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   color: #000;
   margin: 0 0 15px;
 }
 
 .about-guarantee .guarantee-card .guarantee-card-content .content:not(.title) {
-  font: 400 16px/32px 'Open Sans', sans-serif;
+  font: 400 16px/32px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   color: #7a7a7a;
   display: -webkit-box;
   -webkit-line-clamp: 5;
@@ -198,16 +198,16 @@
 }
 
 .guarantee-certificate .certificate-content h2 {
-  font: 600 32px/1 'Open Sans', sans-serif;
+  font: 600 32px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   color: #000;
 }
 
 .guarantee-certificate .certificate-content h5 {
-  font: 600 20px/1 'Open Sans', sans-serif;
+  font: 600 20px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 .guarantee-certificate .certificate-content span {
-  font: 400 16px/1.6 'Open Sans', sans-serif;
+  font: 400 16px/1.6 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   color: #7a7a7a;
 }
 
@@ -227,14 +227,14 @@
 }
 
 .accordion-item button {
-  font: 400 20px/1 'Open Sans', sans-serif;
+  font: 400 20px/1 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   background-color: #eafaed;
   color: #000;
   margin: 0 0 10px;
 }
 
 .accordion-item .accordion-body {
-  font: 400 16px/32px 'Open Sans', sans-serif;
+  font: 400 16px/32px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   text-align: left;
   color: #7a7a7a;
 }
@@ -249,7 +249,7 @@
     gap: 0 5px !important;
   }
   .about-elementor h2 {
-    font: 600 38px/4 'Open Sans', sans-serif;
+    font: 600 38px/4 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   }
 }
 
@@ -259,7 +259,7 @@
   }
 
   .about-elementor h2 {
-    font: 600 60px/5 'Open Sans', sans-serif;
+    font: 600 60px/5 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   }
 
   .about-elementor .about-elementor-counter {
@@ -325,7 +325,7 @@
 }
 @media (max-width: 576px) {
   .about-elementor h2 {
-    font: 600 38px/4 'Open Sans', sans-serif;
+    font: 600 38px/4 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   }
   .about-bg {
     height: 30vh;

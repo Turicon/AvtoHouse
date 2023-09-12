@@ -14,12 +14,12 @@
 }
 
 .video-title {
-  font: 600 28px 'Open Sans', sans-serif;
+  font: 600 28px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   margin-bottom: 20px;
 }
 
 .video-calendar {
-  font: 400 16px 'Open Sans', sans-serif;
+  font: 400 16px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   color: #7a7a7a;
   display: flex;
   align-items: center;
@@ -50,7 +50,7 @@ iframe {
   align-items: center;
   gap: 0 15px;
   margin: 10px 0;
-  font: 400 16px 'Open Sans', sans-serif;
+  font: 400 16px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 .contact-section ul li a svg {
@@ -64,7 +64,7 @@ iframe {
   align-items: center;
   gap: 0 15px;
   margin: 10px 0;
-  font: 400 16px 'Open Sans', sans-serif;
+  font: 400 16px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 .contact-section ul li a svg {
@@ -92,13 +92,13 @@ iframe {
   padding: 12px 24px;
   background-color: #009345;
   color: #fff;
-  font: 500 15px 'Open Sans', sans-serif;
+  font: 500 15px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   cursor: pointer;
   border-radius: 5px;
   margin-top: 30px;
 }
 .video-section .desc p{
-    font: 400 16px 'Open Sans', sans-serif;
+    font: 400 16px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
 @media (min-width: 576px) {
