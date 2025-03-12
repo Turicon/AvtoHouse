@@ -32,7 +32,7 @@
 .feedback-content h2:last-child {
   font-size: 28px;
   color: #009345;
-    /* NEW KERIM*/
+  /* NEW KERIM*/
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -488,7 +488,7 @@ p:nth-child(3) {
     align-items: end;
   }
   /* NEW KERIM*/
-  .products-content{
+  .products-content {
     align-items: center;
   }
   .brand-content div,
@@ -715,7 +715,7 @@ body:not(.rtl)
   margin: 0 !important;
   color: #009345;
 }
-.author a{
+.author a {
   color: white;
   text-decoration: underline;
   text-underline-offset: 2px;
@@ -751,4 +751,58 @@ body:not(.rtl)
   .feedback-section.brands-section {
     padding: 20px 0;
   }
+}
+
+/* NEW CORRECTIONS */
+
+.brand-wrapper div {
+  width: 23%;
+  border-radius: 50%;
+  margin-right: 2.5%;
+  margin-top: 10px;
+}
+.brand-wrapper div p {
+  text-align: center;
+  margin-top: 10px;
+}
+.brand-wrapper a {
+  width: 100% !important;
+  display: block;
+}
+.brand-wrapper a img {
+  height: unset;
+}
+.brand-wrapper {
+  justify-content: start;
+  gap: 0 !important;
+}
+
+@media (min-width: 768px) {
+  .brand-wrapper div {
+    width: 15%;
+  }
+}
+@media (min-width: 1200px) {
+  .brand-wrapper div {
+    width: 10%;
+  }
+  .brand-wrapper {
+    justify-content: start;
+    gap: 20px 20px;
+  }
+}
+@media (max-width: 1200px) {
+  .brand-wrapper div {
+    margin-right: 1.6%;
+  }
+}
+@media (max-width: 576px) {
+  .brand-wrapper div p {
+    text-align: center;
+    margin-top: 7px;
+    margin-bottom: 7px;
+  }
+}
+.product-contact form div.contact-a:hover a {
+  background-color: #0077b5;
 }
